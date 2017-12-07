@@ -1,4 +1,3 @@
-// config/auth.js
 const passport = require('passport')
 const mongoose = require('mongoose')
 const passportJWT = require('passport-jwt')
